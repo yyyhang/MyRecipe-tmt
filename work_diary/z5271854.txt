@@ -1,0 +1,48 @@
+week1
+Group formed and discussed project topic with Tingting Peng, Patrick Li, Yuhang Yang and Wanchen Zhao.
+We finilized the topic with MyRecipes.
+Created account on Jira and talked with groupmates about the available software tools that we might use afterwards. 
+
+week2
+Joined Github Group and brainstormed about potential functions(existing functions and noval ones),
+discuessed with group members about user stories.
+
+week3
+Participated in group meeting and discussed about the frontend architecture. 
+Finished the background part in group report as well as the some user stories.
+
+week4
+Developped the frontend functions related to user stories including viewing profile page, 
+update personal informations and change passwords. Also add search component into the menu bar.
+Connected to predefined api correspondingly.
+
+week5
+Cooperated with group members to build demo A, test with different cases and fix the related bugs 
+Wrote the third part of the retrospective demo A report adn cooperated with members to discuss 
+
+week6
+Developped related components for recipe creation including consistent text input box, step desciptions box, 
+ingredients picker, image selector, multi-type toggle button and cooking type radio group
+Designed the page layout for recipe creation and recipe edition and implement on js and css to have a visually feedback 
+
+
+week7
+Combined the components for creation and apply the components to edit recipe.
+Built recipe creation api, recipe edit api, recipe delete and recipe view api to make the fontend and backend connected 
+Cooperated with backend members to make the process work.
+
+
+week8
+Added more features for recipe creation and edition, including validation on input 
+and steps/ingredients increment and decrement and image replacement and submission successfully.
+Built Basket summary view and delete api and connect with backend to make the basket recipe Summry page works
+
+
+week9
+Tested the program, improved features and bug fixed
+Worked on the final report functinality part for recipe creation, recipe edit, delete and view, 
+and functionalities on my profile including view personal informations, change password, edit user information, 
+and challange, frontend Manual as well.
+
+week10
+Prepard final presentation for recipe part and testing the program and fix the related bugs.

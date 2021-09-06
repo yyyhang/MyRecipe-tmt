@@ -1,0 +1,65 @@
+html,body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+@font-face {
+  font-family: 'Bangers';
+  src: local('Bangers'), url(./font/Bangers/Bangers-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Anton';
+  src: local('Anton'), url(./font/Anton/Anton-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lobster';
+  src: local('Lobster'), url(./font/Lobster/Lobster-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto_Slab';
+  src: local('Roboto_Slab'), url(./font/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Cinzel';
+  src: local('Cinzel'), url(./font/Cinzel/Cinzel-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: local('Cinzel'), url(./font/Raleway/Raleway-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: local('Merriweather'), url(./font/Merriweather/Merriweather-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Crimson_Text';
+  src: local('Crimson_Text'), url(./font/Crimson_Text/CrimsonText-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Abril_Fatface';
+  src: local('Abril_Fatface'), url(./font/Abril_Fatface/AbrilFatface-Regular.ttf) format('truetype');
+}
+
+
+
+
+
+
+

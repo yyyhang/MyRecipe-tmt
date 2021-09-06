@@ -1,0 +1,19 @@
+week 1: Met up with teammates. Learned anout how to use Jira. Joined GitHub group
+
+week 2: Discussed project requirements with teammates. Wrote propsal about the user stories. 
+
+week 3: Set up backend environment, set up virtual environment. Draw Architecuture.
+
+week 4: Finished propsal. Wrote backend code of login, logout, register, change password, change information functions.
+
+week 5: Tested code before demo. Data model design.
+
+week 6: Implemented like function, recipelist function.
+
+week 7: Implemented Search Function, subscription function.
+
+week 8: Finished all backend functions with backend team. Changed the algorithm about search function. Changed the way images storage to Firebase.
+
+week 9: Debugged some issues, such as token issue, search issue. Wrote report about 3rd party package(backend), architecture, and manual.
+
+week 10: Polished code, report and readme.

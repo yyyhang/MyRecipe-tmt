@@ -1,0 +1,43 @@
+Week 1:
+Form a group of five. I created a Jira account and joined our Jira group and GitHub classroom.
+ This week, we held a group meeting to determine the grouping and technology stack of the project.
+  I will be responsible for the front-end part, using the ReactJS framework.
+
+Week 2:
+This week we discussed the division of labor of the proposal and determined the user stories of the project.
+ I am responsible for the Interface and Flow Diagram part. Wanchen and I used Balsamiq Mockups3 to draw prototypes and we hold two meetings with other members to discuss specific details.
+
+Week 3:
+Wanchen and I continued to complete the prototype and compiled the corresponding part of the proposal. 
+As before, we organized two meetings to discuss novel functions and proofread the final version of the proposal. 
+At the weekend, I completed the construction of the front-end framework and push it on Github.
+
+Week 4:
+This week we held a front-end meeting to divide the labor for Demo A. Then I started writing the pages I was responsible for, including login, sign up, and welcome page. By the end of this week, I have completed the login and registration functions. And completed the component code of the menu bar and Thumbnails to facilitate other teammates to
+reuse the components.
+
+Week 5:
+This week, we prepared for Demo A. Yuhang and I completed the joint debugging of the front end and the back end.
+ And after DemoA, we held a retrospective meeting to discuss the current problems and deficiencies. In the following time, 
+ I fixed the problems on the front page that I am responsible for.
+
+Week 6:
+This week, I implemented the welcome page and search page. Through communication with the backend teammates, 
+the API design of the search is determined, and the response of the search is completed. I also finished the display of search results and advanced search. On the welcome page, the Hottest API provided by the backend is called to show the popular recipes from the database.
+
+Week 7:
+This week, with the implementation of the subscription function, my work is mainly to implement Newsfeed, 
+to display the content of subscribers,
+
+week 8:
+This week, I rewrote the code in the Thumbnail section so that it can be liked and jumped to other pages. And I designed a special area on the welcome page to display a high-quality recipe, making the display of the web page more attractive to users.
+
+Week 9:
+I redesigned the UI of the MyProfile and EditInfo pages and implemented them. Also, I re-design the layout for the sign-up and login
+page to make it more attractive. The most arduous task is to repair the vulnerabilities in the system, 
+one is verification problems like token undefined.
+
+
+Week 10:
+Complete the Functionality, the Third-party part for the report, and integrate the code and continue improving the function. Practice with teammates
+for final presentation.

@@ -1,0 +1,36 @@
+
+Week 1
+
+Formed a group of 5. Joined Jira and Github project. Read project descriptions and discussed project selecting preference with all our members, and decided to work on MyRecipe. I have looked into the functions of the example websites to get a better idea of what kind of product we are going to implement. We had a simple preliminary discussion of the framework and software tools that might be of use in our project.
+
+Week 2
+
+Tuesday
+Meet with other members during the lab and discussed about of the first deliverable, the proposal. Our mentor helped us clarifying the requirements such as user story. Tested Github and Jira. Decided on the frontend and backend frameworks and libraries to be used.
+
+Saturday
+Meet up to write the draft proposal together. We went through all the features of each page together and I worked on the user stories and scenarios corresponding to the features on the recipe detail page. Together we checked each other's work, and discussed the requirements in details throughout the meeting, for instance "how to design the search filters", "in what format do we allow users to input the ingredients", and many more.
+
+week 3
+Work on the final version of Product Proposal. Add more interface into Balsamiq prototype.
+
+Week 4 
+Learn to use React and try to start implementing front-end interfaces.
+
+Week 5
+Read front end code, start working on recipe detail page. Make demo A sides. Have retrospective meeting and write part of Retrospective A report.
+
+Week 6
+Attend meeting to discuss further implementation preparations such as data model and api format. Keep on working on recipe detail page, create components that could be reused in other pages. 
+
+Week 7
+Cooperate with backend developers, connect recipe detail page and components within to the backend. Fix bugs accordingly.
+
+Week 8
+Food basket interface and related feature (adding to and removing from the basket) in recipe detail page.
+
+Week 9 
+Polish front-end user experiance of the product. Keep fixing bugs discovered. Work on the overview and part of the functionalities of the final report.
+
+Week 10
+Finalise the report, keep testing and fixing edge cases, get my part of the frontend code ready for submission. Practice for the final presentation.

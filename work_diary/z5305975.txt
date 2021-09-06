@@ -1,0 +1,60 @@
+Week 1
+
+Group formed, created the Jira and Github accounts. 
+Held a group meeting, exchanged contact information, taking the role as a Scrum Master.
+Discussed with all team members about all available software tools and libraries that we can use for the project. 
+
+Week 2
+
+Held a group meeting, further discussed work distrubution, will be contributing to the backend group.
+Further discussed technologies for backend. Assigned tasks on project proposal.
+
+Week 3
+
+Held group meetings, defined user stories, discussed project proposal in detail, contributed ideas as a group.
+Created and designed stories & sprints in Jira, proof-read the entire proposal.
+Modified, modified and compiled project proposal, then submitted the proposal.
+
+Week 4
+
+Started building features for backend, tested mysql database on AWS, updated Jira.
+Managed code from git, organised a testing on the system for Demo A
+
+Week 5
+
+Finished up features for Demo A, successfully connected backend with AWS MySQL, organised meeting and practiced the first demo presentation. 
+Spoke on behalf of team TomCat for Demo A.
+Held a retrospective meeting straight after Demo A, discussed pros & cons and things to try.
+Summarised retrospective report, proof-read, compiled and submitted the report.
+Organised work distribution for Demo B, set up deadlines and cross-check schedules.
+
+Week 6
+
+Proof-read and compile the retrospective A, did submission.
+Finished create/edit/delete/view recipe APIs. Uni-Break, no meetings.
+
+Week 7
+
+Finished newsfeed, profile APIs. Tracked development progress using Jira. Managed Github branches.
+Held meetings for front-end back-end integration.
+
+Week 8
+
+Held meetings practice for Demo B. 
+Spoke on behalf of team TomCat for Demo B.
+Held a retrospective meeting straight after Demo B
+Summarised retrospective report, proof-read, compiled and submitted the report.
+Organised work distribution for Demo B, set up deadlines and cross-check schedules.
+Finished Recommendation, Basket function
+Checked up backend APIs, backend all finished.
+
+Week 9
+
+Organised meetings for front-end & back-end integration, also tracked progress.
+Provided support to members finalising parts.
+Fix bugs
+Wrote part of report, integrated parts from other members.
+
+Week 10
+proof-read, compile and submit code and report.
+Organise meetings practicing for final presentation.
